@@ -4,6 +4,7 @@ date: 2026-01-22T12:10:00+08:00
 draft: false
 categories: ["技术", "Debug"]
 tags: ["Bugfix", "Hugo", "Congo", "TOML"]
+series: ["Hugo建站实录"]
 ---
 
 ## 问题现象

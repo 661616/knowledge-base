@@ -4,6 +4,7 @@ date: 2026-01-22
 draft: false
 categories: ["随笔", "测试"]
 tags: ["Hugo", "Congo"]
+series: ["Hugo建站实录"]
 ---
 
 ## 欢迎来到我的个人知识库
