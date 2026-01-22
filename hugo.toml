@@ -8,7 +8,7 @@ title = '我的个人知识库'
 
 [params]
   colorScheme = 'congo'
-  defaultAppearance = 'dark'
+  defaultAppearance = 'light'
   
   [params.homepage]
     layout = 'profile'
