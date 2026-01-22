@@ -8,18 +8,18 @@ title = '我的个人知识库'
 
 [params]
   colorScheme = 'congo'
-  defaultAppearance = 'light'
+  defaultAppearance = 'auto'
   
   [params.homepage]
     layout = 'profile'
     showRecent = true
     
   [params.author]
-    name = 'Leyi Li'
+    name = '661'
     headline = '正在构建我的个人知识库'
     links = [
       { icon = 'github', href = 'https://github.com/661616' },
-      { icon = 'email', href = 'mailto:leyi.li@narwal.com' }
+      { icon = 'email', href = 'mailto:ygzh0525@gmail.com' }
     ]
 
   [params.search]
