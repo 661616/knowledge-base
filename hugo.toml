@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://knowledge-base-b1m.pages.dev/'
 languageCode = 'zh-cn'
 title = '我的个人知识库'
 
