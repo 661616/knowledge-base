@@ -2,9 +2,30 @@
 resources/
 public/
 .hugo_build.lock
-.DS_Store
 
 # OS
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
+*~
 
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Go modules (vendor directory managed by go mod)
+# _vendor/  # 如果需要保留 vendor，可以注释掉这一行
+
+# Node modules (if using npm/yarn)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.log
+*.tmp
+
+# Shell scripts
+*.sh
