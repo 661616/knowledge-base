@@ -1,0 +1,43 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'zh-cn'
+title = '我的个人知识库'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/jpanther/congo/v2'
+
+[params]
+  colorScheme = 'congo'
+  defaultAppearance = 'dark'
+  
+  [params.homepage]
+    layout = 'profile'
+    showRecent = true
+    
+  [params.author]
+    name = 'Leyi Li'
+    headline = '正在构建我的个人知识库'
+    links = [
+      { icon = 'github', href = 'https://github.com/661616' },
+      { icon = 'email', href = 'mailto:leyi.li@narwal.com' }
+    ]
+
+  [params.search]
+    enable = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 30
