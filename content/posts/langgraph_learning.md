@@ -227,3 +227,7 @@ TODO: 请将你的截图重命名为 agent-vs-workflow.png
 *   **结构化任务**（如 HR 流程、工单处理）→ 走任务 Agent 路径
 *   **开放式咨询**（如产品介绍、技术支持）→ 走聊天 Agent 路径
 *   **模糊意图**（用户说不清楚需求）→ 先走任务路径，失败后降级到聊天路径，通过对话澄清需求
+
+
+
+![alt text](../../static/images/image-20260123115332258.png) ![alt text](../../static/images/image-20260123115356542.png) ![alt text](../../static/images/image-20260123115415954.png) ![alt text](../../static/images/image-20260123115429941.png) ![alt text](../../static/images/image-20260123115446823.png) ![alt text](../../static/images/image-20260123115504775.png) ![alt text](../../static/images/image-20260123115525825.png) ![alt text](../../static/images/image-20260123115538007.png) ![alt text](../../static/images/image-20260123115549148.png) ![alt text](../../static/images/image-20260123115557728.png) ![alt text](../../static/images/image-20260123115608028.png) ![alt text](../../static/images/image-20260123115618011.png)
